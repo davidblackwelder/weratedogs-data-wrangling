@@ -83,7 +83,7 @@ For this project the following issues had to be assessed:
 #### Storing Data
 All the cleaned datasets were merged together and this new dataset was saved as `twitter_archive_master.csv` in the `data` folder.
 
-### Conclusions
+## Conclusions
 
 #### Insights
  > _These dog types were determined by the image recognition algorithm and these results have not been confirmed to be accurate._
@@ -105,11 +105,11 @@ Chihuahua have more ratings than German Shepherd. The range of ratings for Chihu
 
 The average rating for a Chihuahua is 10.79. The average rating for a German Shepherd is 10.95.
 
-#### Resources
+## Resources
 [Blog post](https://saturncloud.io/blog/how-to-show-images-in-jupyter-notebook/) by Saturn Cloud for showing images in Jupyter Notebook
 
 [Pillow documentation](https://pillow.readthedocs.io/en/stable/reference/Image.html#functions) for displaying images
 
-#### Extras
+## Extras
 
 [Verified Certificate Of Completion](https://www.udacity.com/certificate/e/012b9870-af30-11ee-9078-6faba1e5b91d)
