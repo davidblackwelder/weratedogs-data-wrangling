@@ -44,7 +44,7 @@ For this project the following issues had to be assessed:
 
 #### Assessing and Cleaning `twitter-archive-enhanced.csv`
 - Visual assessment of the data was performed both within `wrangle_act.ipynb` and in Excel.
-- Programmtic assessment was performed within the `wrangle_act.ipynd`.
+- Programmatic assessment was performed within the `wrangle_act.ipynd`.
 - A copy of the data was created before cleaning was performed.
 
 ##### Quality and Tidiness Issues
@@ -62,7 +62,7 @@ For this project the following issues had to be assessed:
 
 #### Assessing and Cleaning `image-predicitions.tsv`
 - Visual assessment of the data was performed both within `wrangle_act.ipynb` and in Excel.
-- Programmtic assessment was performed within the `wrangle_act.ipynd`.
+- Programmatic assessment was performed within the `wrangle_act.ipynd`.
 - A copy of the data was created before cleaning was performed.
 
 ##### Quality and Tidiness Issues
@@ -74,7 +74,7 @@ For this project the following issues had to be assessed:
 
 #### Assessing and Cleaning `tweet-json.txt`
 - Visual assessment of the data was performed both within `wrangle_act.ipynb` and in Excel.
-- Programmtic assessment was performed within the `wrangle_act.ipynd`.
+- Programmatic assessment was performed within the `wrangle_act.ipynd`.
 - A copy of the data was created before cleaning was performed.
 
 ##### Quality and Tidiness Issues
